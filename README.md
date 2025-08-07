@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArianAttaie
 - 👀 I’m interested in Programming & Classical Music
-- 🌱 I’m currently learning C#, Data Analisis & Machine Learning
+- 🌱 I’m currently studying Deeplearning
 - 📫 How to reach me attaiearian@gmail.com
 
 <!---
